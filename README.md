@@ -1,9 +1,9 @@
 ## About ME 
 
-<h2>I'm React Native Developer (IOS & Android)</h2>
+<h2>I'm React Native & Flutter Developer (IOS & Android)</h2>
 
 - I'm Mobile App Developer.
-- My personal mail - dheerajprajapati0009@gmail.com
+- My personal e-mail - dheerajprajapati0009@gmail.com
 
 ## My NPM profile
 
